@@ -5,7 +5,8 @@ colorFrom: blue
 colorTo: green
 sdk: docker
 app_port: 7860
+pinned: false
 ---
 
-# Sniper Bot Final 🚀
-هذا البوت يقوم بمراقبة أسعار العملات والذهب آلياً باستخدام 5 مفاتيح TwelveData وتنبيهك عبر تليجرام.
+# Sniper Bot V5 🚀
+Checking Binance and OKX prices with Telegram alerts.
